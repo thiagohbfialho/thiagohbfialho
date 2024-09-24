@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Thiago!</h1>
+<h1 align="center">Hi there 👋, I am Thiago Fialho!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagohbfialho" alt="thiagohbfialho" /> </p>
 
